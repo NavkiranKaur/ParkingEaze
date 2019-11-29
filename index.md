@@ -27,7 +27,11 @@
       <br> the video of motor rotation can be seen through here
         <a href=" https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov">Click to view </a>
      <h2>Nov 13 ,2019 </h2>
-    I acquired my new pcb and started working on it.and updated new fritzing images are follows:
+    I acquired my new pcb and started working on it.The images are captured.
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1160.jpg"  >
+    <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1159.jpg">
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1161.jpg">
+      .and updated new fritzing images are follows:
     <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png"  >
     <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcb_final.png">
    <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/schematic_final.png" >
