@@ -1,6 +1,10 @@
 <html>
   <head>
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
+     <h2>Posting the presentaion </h2>
+    <p> My presentation link to the slides is 
+      <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/Parking Eaze.pptx">here.</a>
+      Previously,i was unable to load it as size was larger due to the video that i have included here but had to remove so the presentation can be uploaded.I will still need to update the enclosure slide because enclosure is not ready yet.Hence, rest of my presentation was completely ready for uploading on blog and therefore,i decided to upload.<p>
     <h2>Nov 21 ,2019 </h2>
     <u> <h2> Progess status update </h2> </u> 
     I have been working sround my case for the enclosure as it was not fine so i am trying to fix the dimensions as it will be longer than the pi dimensions because my pcb expands outside from the pi.For the motor,as my professor suggested to go for the 3D printing and provided me the link which can be found by 
