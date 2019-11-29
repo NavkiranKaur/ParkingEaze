@@ -7,10 +7,10 @@
       Previously,i was unable to load it as size was larger due to the video that i have included here but had to remove so the presentation can be uploaded.<p>
     <u><h2>Enclosure<h2><u>
      <p> My enclosure has been accomplished as it encloses raspberry pi,drv8825 driver and the pcb.For the motor ,i considered 3Dprinting.<p>
-<!--       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1" height="600" >
-       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" height="600">
-      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" height="600">
-       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg" height="600" > -->
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1,jpg" height="600" >
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure2.jpg" height="600">
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor3.jpg" height="600">
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor2.jpg" height="600" >
     <h2>Nov 21 ,2019 </h2>
       <u> <h2> Progess report  </h2> </u> 
     <p> I was struggling with my motor working but it finally works as their some voltage and current specifications on the driver needs to be changed with the multimeter probes.Alongwith it ,the motor wires to the driver were connected in a wrong manner,so that implements the alterations on the pcb design.I soldered the new pcb with new changed connections of wire alongwith adding  power supply holes too as i am using a 12 v power supply for the motor.I am working for my enclosure case as this is the very next step after the powering up of the pcb. I had also ordered the hdmi to vga cable and bought a  mouse and a keyboard combo two weeks ago in order for running code on raspberry pi that also implies my changes in the financial status.b</p>
