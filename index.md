@@ -6,7 +6,7 @@
       <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/PARKING%20EAZE.pptx">here.</a>
       Previously,i was unable to load it as size was larger due to the video that i have included here but had to remove so the presentation can be uploaded.<p>
     <u><h2>Enclosure<h2><u>
-     <p> My enclosure has been accomplished as it encloses raspberry pi,drv8825 driver and the pcb.For te motor ,i considered 3Dprinting.<p>
+     <p> My enclosure has been accomplished as it encloses raspberry pi,drv8825 driver and the pcb.For the motor ,i considered 3Dprinting.<p>
 <!--       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1" height="600" >
        <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" height="600">
       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" height="600">
