@@ -5,7 +5,7 @@
     <p> My presentation link to the slides is 
       <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/PARKING%20EAZE.pptx">here.</a>
       Previously,i was unable to load it as size was larger due to the video that i have included here but had to remove so the presentation can be uploaded.<p>
-    <u><h2>Enclosure</h2><u>
+    <u><h2>Enclosure</h2></u>
      <p> My enclosure has been accomplished as it encloses raspberry pi,drv8825 driver and the pcb.For the motor ,i considered 3Dprinting.My corel draw file can be found 
        <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/mechanical/EnclosureFinal.cdr">here.</a>
          <br>For the motor,design files for 3D printing can be found 
