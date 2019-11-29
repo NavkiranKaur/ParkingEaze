@@ -4,14 +4,16 @@
      <h2>Posting the presentaion </h2>
     <p> My presentation link to the slides is 
       <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/PARKING%20EAZE.pptx">here.</a>
-      Previously,i was unable to load it as size was larger due to the video that i have included here but had to remove so the presentation can be uploaded.I will still need to update the enclosure slide because enclosure is not ready yet.Hence, rest of my presentation was completely ready for uploading on blog and therefore,i decided to upload.<p>
+      Previously,i was unable to load it as size was larger due to the video that i have included here but had to remove so the presentation can be uploaded.<p>
+    <u><h2>Enclosure<h2><u>
+     <p> My enclosure has been accomplished as it encloses raspberry pi,drv8825 driver and the pcb.For te motor ,i considered 3Dprinting.<p>
+<!--       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1" height="600" >
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg" height="600">
+      <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg" height="600">
+       <img src="https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg" height="600" > -->
     <h2>Nov 21 ,2019 </h2>
-    <u> <h2> Progess status update </h2> </u> 
-    I have been working sround my case for the enclosure as it was not fine so i am trying to fix the dimensions as it will be longer than the pi dimensions because my pcb expands outside from the pi.For the motor,as my professor suggested to go for the 3D printing and provided me the link which can be found by 
-    <a href="https://www.thingiverse.com/thing:3753538/files">Clicking here </a>
-    I am moving forward with this.Although it will take a week as I discussed with the prototype lab professor but as this course signifies to gain the experience both with laser cutting and 3D printing.For my rest of the case, i am going with the laser cutting and figuring out my enclosure.
       <u> <h2> Progess report  </h2> </u> 
-    <p> I was struggling with my motor working but it finally works as their some voltage and current specifications on the driver needs to be changed with the multimeter probes.Alongwith it ,the motor wires to the driver were connected in a wrong manner,so that implements the alterations on the pcb design.I soldered the new pcb with new changed connections of wire alongwith adding  power supply holes too as i am using a 12 v power supply for the motor.I am working for my enclosure case as this is the very next step after the powering up of the pcb. I had also ordered the hdmi to vga cable and bought a  mouse and a keyboard combo two weeks ago in order for running code on raspberry pi that also implies my changes in the financial status.My budget has also been changed a bit as I ordered bunch of headers from amazon due to changing of my designs of the pcb</p>
+    <p> I was struggling with my motor working but it finally works as their some voltage and current specifications on the driver needs to be changed with the multimeter probes.Alongwith it ,the motor wires to the driver were connected in a wrong manner,so that implements the alterations on the pcb design.I soldered the new pcb with new changed connections of wire alongwith adding  power supply holes too as i am using a 12 v power supply for the motor.I am working for my enclosure case as this is the very next step after the powering up of the pcb. I had also ordered the hdmi to vga cable and bought a  mouse and a keyboard combo two weeks ago in order for running code on raspberry pi that also implies my changes in the financial status.b</p>
       <h2>Nov 14 ,2019 </h2>
     <p>The pcb is connected to the stepper motor,drv8825and the pi and the power supply from dc adaptor of 12 v is given and the motor is rotating ,forward ,reverse directions.The working pcb is demonstrated.
       <br>
