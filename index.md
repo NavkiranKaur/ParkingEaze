@@ -2,7 +2,8 @@
   <head>
        <u> <h1> Project Blog: Parking IOT system scale model</h1> </u> <br> 
     <h2>Updates</h2>
-    <a href=" https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/PARKING%20EAZE_updated.pptx">Click to view Presentation</a>
+    <p>
+    <a href="https://github.com/NavkiranKaur/ParkingEaze/blob/master/documentation/PARKING%20EAZE_updated.pptx">Click to view Presentation</a> </p>
     <p> I updated my presentation as I corrected and update the price of safety glasses in the slide
     </p>
     <p>The updated budget of my project is here: 
