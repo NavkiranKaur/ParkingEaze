@@ -128,6 +128,15 @@ This is the code that i have used to run my motor in the python.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/outputTerminal.png)
 
 ## Enclosure
+- I got an acrylic white case enclosure that encloses my raspberry pi,driver drv8825 and the pcb 
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1.jpg)
+
+- For my motor ,i got my parts as made with 3D printing.
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor3.jpg)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor2.jpg)
+
+## Production Testing
+
 
 
 
