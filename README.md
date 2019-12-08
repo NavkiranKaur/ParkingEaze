@@ -107,6 +107,16 @@ The pcb is made and then after it is soldered carefully
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1161.jpg)
 
 ## PCB Power up
+- Firstly make sure any of the pcb wire is not shorted.
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/overload.jpg)
+
+- pcb powering up 
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg)
+
+The movement of my motor can be seen [here](https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov)
+
 
 
 
