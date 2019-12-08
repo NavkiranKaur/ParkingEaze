@@ -123,7 +123,7 @@ This is the code that i have used to run my motor in the python.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeblog.PNG)
 
 - Getting the outputs that enable rotation of the motor
-![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeRun.PNG)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeRun.jpg)
 
 
 
