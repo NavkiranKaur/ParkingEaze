@@ -11,13 +11,12 @@
 5. [Budget](#budget)
 6. [Time Commitment](#time-Commitment)
 7. [Setting up Raspberry Pi](#setting-Up-Raspberry-Pi)
-8. [Hardware Testing](#hardware-Testing)
-9. [Mechanical Assembly](#mechanical-Assembly)
-10. [PCB Soldering](#pcb-Soldering)
-11. [PCB Power up](#pcb-power-up)
-12. [Unit Testing](#unit-Testing)
-13. [Production Testing](#production-Testing)
-14. [Resources](#resources)
+8. [Mechanical Assembly](#mechanical-Assembly)
+9. [PCB Soldering](#pcb-Soldering)
+10. [PCB Power up](#pcb-power-up)
+11. [Unit Testing](#unit-Testing)
+12. [Production Testing](#production-Testing)
+13. [Resources](#resources)
 
 ##  Introduction
 In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 driver on the raspberry pi development platform.Here are the build instructions that demonstrates how to control bi-polar stepper motors on a Raspberry Pi in Python using a DRV-8825 stepper motor driver.
@@ -54,10 +53,18 @@ In my case,I got delay in my breadboard due to not setting current voltage speci
 Connecting the raspberry with power supply,hdmi cable from raspberry pi to the hdmi to vga cable and that vga side to the monitor.Connecting the separate mouse and the keyboard with the pi.
 Following the steps below:
 1. Download [Raspbian](https://www.raspberrypi.org/downloads/) to be installed on your raspberry pi.
-2. Use [SDCardFormatter](https://www.sdcard.org/downloads/formatter_4/) to format your SD card so for the getting the pi to work
+2. Use [SDCardFormatter](https://www.sdcard.org/downloads/formatter_4/) to format your SD card so for getting the pi to work
 3. Inserting the SD card in raspberry pi and ensuring the connection all the above mentioned parts to be connected appropriately.
 4. Switch on the power and finish the further setup including changing the settings.
 5. Giving the commands on the terminal that require insallation like sudo updates etc,
+
+## Mechanical Assembly
+For the mechanical assembly,ensure connecting the pins and connections carefully.
+Firstly the connections were made on the breadboard using the jumper wires from the driver ,raspberry pi ,stepper motor and the capacitor.I made the connections from driver to the raspberry pi ,motor and the capacitor and also used the power supply of the college. Breadboarding is just to make sure if the effectors and the components works as expected or their is a need to change some connections or if there is a damaged component.
+
+
+
+
 
 
 
