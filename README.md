@@ -61,7 +61,7 @@ Following the steps below:
 ## Mechanical Assembly
 For the mechanical assembly,ensure connecting the pins and connections carefully.
 Firstly the connections were made on the breadboard using the jumper wires from the driver ,raspberry pi ,stepper motor and the capacitor.I made the connections from driver to the raspberry pi ,motor and the capacitor and also used the power supply of the college. Breadboarding is just to make sure if the effectors and the components works as expected or their is a need to change some connections or if there is a damaged component.
-https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/
+
 ## Wiring connections
 -Raspberry pi pin 3v : DRV8825 SLEEP,DRV8825 RESET 
 - Where connecting the sleep and reset together whereas connecting pi to the one of them
@@ -89,7 +89,7 @@ ALSO IN DRV8825
 
 - Pin can be connected vice versa but make sure coil pair pins goes with the pair on the driver ,not interchanging if connecting a pair both pins to be connected to other driver pair itself. Don’t connect the pin in the pairs differently.
 
-This[tutorial](https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/) can also help you in depth with the required specifications.
+This [tutorial](https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/) can also help you in depth with the required specifications.
 
 --My breadboard design in the fritzing
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png)
@@ -119,7 +119,8 @@ The pcb is made and then after it is soldered carefully
 The movement of my motor can be seen [here](https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov)
 
 ## Unit Testing
-
+This is the code that i have used to run my motor in the python.
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeblog.PNG)
 
 
 
