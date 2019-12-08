@@ -112,7 +112,6 @@ The pcb is made and then after it is soldered carefully
 
 - pcb powering up 
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motorworkpcb.jpg)
-![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/newpcb.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/blogm.jpg)
 
 The movement of my motor can be seen [here](https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov)
