@@ -136,7 +136,7 @@ This is the code that i have used to run my motor in the python.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor2.jpg)
 
 ## Production Testing
-It is a crucial step to ensure that the parts work correctl and perform the required functions that are neccesary to executing the building hardware.
+It is a crucial step to ensure that the parts work correctly and perform the required functions that are neccesary to executing the building hardware.In my project,the key thing to specify the voltage on the driver and limiting the current on it .Without doing it,the motor is not able to rotate which is the main requirement from the hardware production.
 
 
 
