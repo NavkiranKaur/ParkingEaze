@@ -136,8 +136,7 @@ This is the code that i have used to run my motor in the python.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor2.jpg)
 
 ## Production Testing
-
-
+It is a crucial step to ensure that the parts work correctl and perform the required functions that are neccesary to executing the building hardware.
 
 
 
