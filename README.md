@@ -27,3 +27,16 @@ The ParkingEaze Capstone Project : The stepper motor will be able to move the ba
 
 ## System Diagram 
 ![systemdiagram](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/sysDiagram.PNG)
+
+## Materials
+- Raspberry Pi 3B+,Hdmi cable,power supply of the pi,SD card , mouse and keyboard
+- 12 Voltage dc power supply portable adaptor
+- Bipolar steper motor Nema 17
+- Drv8825 driver
+- 100 microFarad capacitor
+- Breadboard and jumper wires (male and female)
+- 40 pin male double row male to female header, 
+- two 8 pins male to female headers and one 4 pin header ( all single row)
+- Acrylic case for the enclosure 
+- 3d printed motor parts
+
