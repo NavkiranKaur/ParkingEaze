@@ -40,3 +40,8 @@ The ParkingEaze Capstone Project : The stepper motor will be able to move the ba
 - Acrylic case for the enclosure 
 - 3d printed motor parts
 
+## Budget
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/CaptureBudget1.PNG)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/Captureb2.PNG)
+
+
