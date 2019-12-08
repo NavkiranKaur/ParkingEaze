@@ -122,6 +122,9 @@ The movement of my motor can be seen [here](https://github.com/NavkiranKaur/Park
 This is the code that i have used to run my motor in the python.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeblog.PNG)
 
+- Getting the outputs that enable rotation of the motor
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeRun.PNG)
+
 
 
 
