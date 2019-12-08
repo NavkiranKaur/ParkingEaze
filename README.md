@@ -90,8 +90,8 @@ ALSO IN DRV8825
 - Pin can be connected vice versa but make sure coil pair pins goes with the pair on the driver ,not interchanging if connecting a pair both pins to be connected to other driver pair itself. Don’t connect the pin in the pairs differently.
 
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png)
-![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread2.jpg)
-![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread3.jpg)
+<!--![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread2.jpg)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread3.jpg) -->
 
 - Also you need the code to run it,that i will be describing in the later steps below.
 
