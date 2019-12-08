@@ -51,6 +51,13 @@ The equipments that I have used from my parts kit are Jumper wires(both male and
 In my case,I got delay in my breadboard due to not setting current voltage specifications on the driver,also made the pcb second time and also spent more time on the enclosure as it was 3D printing for the motor and my case was also big consisiting of pcb on the pi with the driver on it.So,if to be explained in more depth by knowing and being prepared what to do ,it can save much time.Breadboard can take 1 or 2 hours as to set all the voltages and making connections and based on that getting the pcb ready.Powering up take about 20 minutes and then getting the parts enclosed.
 
 ## Setting up the raspberry pi
+Connecting the raspberry with power supply,hdmi cable from raspberry pi to the hdmi to vga cable and that vga side to the monitor.Connecting the separate mouse and the keyboard with the pi.
+Following the steps below:
+1. Download [Raspbian](https://www.raspberrypi.org/downloads/) to be installed on your raspberry pi.
+2. Use [SDCardFormatter](https://www.sdcard.org/downloads/formatter_4/) to format your SD card so for the getting the pi to work
+3. Inserting the SD card in raspberry pi and ensuring the connection all the above mentioned parts to be connected appropriately.
+4. Switch on the power and finish the further setup including changing the settings.
+5. giving the commands on the terminal require insallation like sudo updates etc,
 
 
 
