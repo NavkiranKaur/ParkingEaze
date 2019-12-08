@@ -106,6 +106,7 @@ The pcb is made and then after it is soldered carefully
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1159.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1161.jpg)
 
+## PCB Power up
 
 
 
