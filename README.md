@@ -62,6 +62,33 @@ Following the steps below:
 For the mechanical assembly,ensure connecting the pins and connections carefully.
 Firstly the connections were made on the breadboard using the jumper wires from the driver ,raspberry pi ,stepper motor and the capacitor.I made the connections from driver to the raspberry pi ,motor and the capacitor and also used the power supply of the college. Breadboarding is just to make sure if the effectors and the components works as expected or their is a need to change some connections or if there is a damaged component.
 
+##Wiring connections
+Raspberry pi pin 3v : DRV8825 SLEEP,DRV8825 RESET 
+Where connecting the sleep and reset whereas connecting pi to the one of them
+-Raspberry pi pin GND : DRV8825 GND1
+-Raspberry pi pin GPIO21 : DRV8825 STEP
+-Raspberry pi pin GPIO20 : DRV8825 DIRECTION
+-Raspberry pi pin GPIO14 : DRV8825 MS1
+-Raspberry pi pin GPIO15 : DRV8825 MS2
+-Raspberry pi pin GPIO18 : DRV8825 MS3
+
+ALSO IN DRV8825
+DRV8825 GROUND 1 TO BE CONNECTED WITH GROUND2 of DRV8825 itself
+In order to bind the motor wire pins with the drv8825
+Motor has two coil pairs Coil pair 1 ,coil pair 2
+Coil pair 1 includes A and C
+Coil pair 2 includes B and D
+-MOTOR A WIRE PIN : DRV8825 OUT 2B
+-MOTOR C WIRE  PIN: DRV8825 OUT 2A
+-MOTOR B WIRE PIN : DRV8825  OUT 1A
+-MOTOR D WIRE  PIN: DRV8825  OUT 1B
+
+MOTOR POWER SUPPLY ADAPTOR OF 12 V
+- Capacitor (positive side) : DRV8825 VOLTAGE PIN : POWER SUPPLY POSITIVE (12V)
+- Capacitor(negative side): DRV8825 GROUND: POWER SUPPLY GROUND
+
+- Pin can be connected vice versa but make sure coil pair pins goes with the pair on the driver ,not interchanging if connecting a pair both pins to be connected to other driver pair itself. Don’t connect the pin in the pairs differently.
+
 
 
 
