@@ -16,7 +16,7 @@
 10. [PCB Power up](#pcb-power-up)
 11. [Unit Testing](#unit-Testing)
 12. [Production Testing](#production-Testing)
-13. [Resources](#resources)
+
 
 ##  Introduction
 In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 driver on the raspberry pi development platform.Here are the build instructions that demonstrates how to control bi-polar stepper motors on a Raspberry Pi in Python using a DRV-8825 stepper motor driver.
@@ -61,7 +61,7 @@ Following the steps below:
 ## Mechanical Assembly
 For the mechanical assembly,ensure connecting the pins and connections carefully.
 Firstly the connections were made on the breadboard using the jumper wires from the driver ,raspberry pi ,stepper motor and the capacitor.I made the connections from driver to the raspberry pi ,motor and the capacitor and also used the power supply of the college. Breadboarding is just to make sure if the effectors and the components works as expected or their is a need to change some connections or if there is a damaged component.
-
+https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/
 ## Wiring connections
 -Raspberry pi pin 3v : DRV8825 SLEEP,DRV8825 RESET 
 - Where connecting the sleep and reset together whereas connecting pi to the one of them
@@ -88,6 +88,8 @@ ALSO IN DRV8825
 - Capacitor(negative side): DRV8825 GROUND: POWER SUPPLY GROUND
 
 - Pin can be connected vice versa but make sure coil pair pins goes with the pair on the driver ,not interchanging if connecting a pair both pins to be connected to other driver pair itself. Don’t connect the pin in the pairs differently.
+
+This[tutorial](https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/) can also help you in depth with the required specifications.
 
 --My breadboard design in the fritzing
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png)
@@ -116,7 +118,7 @@ The pcb is made and then after it is soldered carefully
 
 The movement of my motor can be seen [here](https://github.com/NavkiranKaur/ParkingEaze/blob/master/images/IMG-0766.mov)
 
-
+## Unit Testing
 
 
 
