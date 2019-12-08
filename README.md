@@ -24,3 +24,6 @@ In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 d
 
 ## Purpose
 The ParkingEaze Capstone Project : The stepper motor will be able to move the barriers in the car parking in order to allow the entrance and exit of the vehicle using the rotational movement controlled by the driver and raspberry pi Broadcom.
+
+## System Diagram 
+![systemdiagram](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/Images/sysDiagram.png)
