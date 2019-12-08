@@ -101,7 +101,7 @@ The pcb is designed as followed by connections made and tested using the breadbo
 The pcb design is shown below designed in fritzing
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcb_final.png)
 The pcb is made and then after it is soldered carefully
-
+- Remember in my pcb design I put my drv8825 ground to ground connection on differnt side layer(yellow) than the soldering connecting pins (which are in orange).Make sure to keep it as same layer as other drv8825 connections.Hence ,you can see in my pcb ,i coonected an insulated red colour wire on same side where other drv8825 wires are connnected to pins.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1160.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1159.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/IMG-1161.jpg)
