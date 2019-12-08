@@ -14,8 +14,9 @@
 8. [Hardware Testing](#hardware-Testing)
 9. [Mechanical Assembly](#mechanical-Assembly)
 10. [PCB Soldering](#pcb-Soldering)
-11. [Unit Testing](#unit-Testing)
-12. [Production Testing](#production-Testing)
-13. [Resources](#resources)
+11. [PCB Power up](#pcb-power-up)
+12. [Unit Testing](#unit-Testing)
+13. [Production Testing](#production-Testing)
+14. [Resources](#resources)
 
 ##Introduction
