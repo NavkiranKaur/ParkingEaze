@@ -15,7 +15,8 @@
 9. [PCB Soldering](#pcb-Soldering)
 10. [PCB Power up](#pcb-power-up)
 11. [Unit Testing](#unit-Testing)
-12. [Production Testing](#production-Testing)
+12. [Enclosure](#enclosure)
+13. [Production Testing](#production-Testing)
 
 
 ##  Introduction
@@ -126,7 +127,7 @@ This is the code that i have used to run my motor in the python.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeRun.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/outputTerminal.png)
 
-
+## Enclosure
 
 
 
