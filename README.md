@@ -62,15 +62,15 @@ Following the steps below:
 For the mechanical assembly,ensure connecting the pins and connections carefully.
 Firstly the connections were made on the breadboard using the jumper wires from the driver ,raspberry pi ,stepper motor and the capacitor.I made the connections from driver to the raspberry pi ,motor and the capacitor and also used the power supply of the college. Breadboarding is just to make sure if the effectors and the components works as expected or their is a need to change some connections or if there is a damaged component.
 
-##Wiring connections
-Raspberry pi pin 3v : DRV8825 SLEEP,DRV8825 RESET 
-Where connecting the sleep and reset whereas connecting pi to the one of them
--Raspberry pi pin GND : DRV8825 GND1
--Raspberry pi pin GPIO21 : DRV8825 STEP
--Raspberry pi pin GPIO20 : DRV8825 DIRECTION
--Raspberry pi pin GPIO14 : DRV8825 MS1
--Raspberry pi pin GPIO15 : DRV8825 MS2
--Raspberry pi pin GPIO18 : DRV8825 MS3
+## Wiring connections
+-Raspberry pi pin 3v : DRV8825 SLEEP,DRV8825 RESET 
+Where connecting the sleep and reset together whereas connecting pi to the one of them
+- Raspberry pi pin GND : DRV8825 GND1
+- Raspberry pi pin GPIO21 : DRV8825 STEP
+- Raspberry pi pin GPIO20 : DRV8825 DIRECTION
+- Raspberry pi pin GPIO14 : DRV8825 MS1
+- Raspberry pi pin GPIO15 : DRV8825 MS2
+- Raspberry pi pin GPIO18 : DRV8825 MS3
 
 ALSO IN DRV8825
 DRV8825 GROUND 1 TO BE CONNECTED WITH GROUND2 of DRV8825 itself
