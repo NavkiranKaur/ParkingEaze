@@ -19,4 +19,8 @@
 13. [Production Testing](#production-Testing)
 14. [Resources](#resources)
 
-##Introduction
+##  Introduction
+In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 driver on the raspberry pi development platform.Here are the build instructions that demonstrates how to control bi-polar stepper motors on a Raspberry Pi in Python using a DRV-8825 stepper motor driver.
+
+## Purpose
+The ParkingEaze Capstone Project : The stepper motor will be able to move the barriers in the car parking in order to allow the entrance and exit of the vehicle using the rotational movement controlled by the driver and raspberry pi Broadcom.
