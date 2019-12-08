@@ -64,7 +64,7 @@ Firstly the connections were made on the breadboard using the jumper wires from 
 
 ## Wiring connections
 -Raspberry pi pin 3v : DRV8825 SLEEP,DRV8825 RESET 
-Where connecting the sleep and reset together whereas connecting pi to the one of them
+###Where connecting the sleep and reset together whereas connecting pi to the one of them
 - Raspberry pi pin GND : DRV8825 GND1
 - Raspberry pi pin GPIO21 : DRV8825 STEP
 - Raspberry pi pin GPIO20 : DRV8825 DIRECTION
@@ -73,15 +73,15 @@ Where connecting the sleep and reset together whereas connecting pi to the one o
 - Raspberry pi pin GPIO18 : DRV8825 MS3
 
 ALSO IN DRV8825
-DRV8825 GROUND 1 TO BE CONNECTED WITH GROUND2 of DRV8825 itself
-In order to bind the motor wire pins with the drv8825
-Motor has two coil pairs Coil pair 1 ,coil pair 2
-Coil pair 1 includes A and C
-Coil pair 2 includes B and D
--MOTOR A WIRE PIN : DRV8825 OUT 2B
--MOTOR C WIRE  PIN: DRV8825 OUT 2A
--MOTOR B WIRE PIN : DRV8825  OUT 1A
--MOTOR D WIRE  PIN: DRV8825  OUT 1B
+-DRV8825 GROUND 1 TO BE CONNECTED WITH GROUND2 of DRV8825 itself
+-In order to bind the motor wire pins with the drv8825
+- Motor has two coil pairs Coil pair 1 ,coil pair 2
+- Coil pair 1 includes A and C
+- Coil pair 2 includes B and D
+- MOTOR A WIRE PIN : DRV8825 OUT 2B
+- MOTOR C WIRE  PIN: DRV8825 OUT 2A
+- MOTOR B WIRE PIN : DRV8825  OUT 1A
+- MOTOR D WIRE  PIN: DRV8825  OUT 1B
 
 MOTOR POWER SUPPLY ADAPTOR OF 12 V
 - Capacitor (positive side) : DRV8825 VOLTAGE PIN : POWER SUPPLY POSITIVE (12V)
