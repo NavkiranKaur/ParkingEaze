@@ -57,7 +57,7 @@ Following the steps below:
 2. Use [SDCardFormatter](https://www.sdcard.org/downloads/formatter_4/) to format your SD card so for the getting the pi to work
 3. Inserting the SD card in raspberry pi and ensuring the connection all the above mentioned parts to be connected appropriately.
 4. Switch on the power and finish the further setup including changing the settings.
-5. giving the commands on the terminal require insallation like sudo updates etc,
+5. Giving the commands on the terminal that require insallation like sudo updates etc,
 
 
 
