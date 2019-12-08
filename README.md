@@ -91,6 +91,9 @@ ALSO IN DRV8825
 
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/breadboard_final.png)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread2.jpg)
+![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/bread3.jpg)
+
+- Also you need the code to run it,that i will be describing in the later steps below.
 
 
 
