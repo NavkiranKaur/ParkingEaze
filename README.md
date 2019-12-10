@@ -119,7 +119,7 @@ The movement of my motor can be seen [here](https://github.com/NavkiranKaur/Park
 
 ## Unit Testing
 This is the code that i have used to run my motor in the python.
-...
+```
 from time import sleep
 import RPi.GPIO as GPIO
 
@@ -164,7 +164,7 @@ for x in range(step_count):
     sleep(delay)
 print("DONE")
 GPIO.cleanup()
-...
+```
 
 - Getting the outputs that enable rotation of the motor
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/codeRun.jpg)
