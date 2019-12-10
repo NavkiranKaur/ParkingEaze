@@ -29,9 +29,9 @@ In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 d
 ## Materials
 - Raspberry Pi 3B+ 
 - [Hdmi cable](https://www.amazon.ca/gp/product/B07BN874RP/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
-- [Bipolar steper motor Nema 17](Usongshine 38mm 4 Lead Nema17 Stepper Motor 42 Motor Nema 17 Motor 42BYGH 38MM 1.5A (17HS4401) Motor for CNC XYZ 3D Printer Motor)
-- [Drv8825 driver](5pcs DRV8825 Stepper Motor Driver Module for 3D Printer RepRap 4 RAMPS1.4 StepStick)
-- [12 Voltage dc power supply portable adaptor](GutReise 100-240V to 3V,4.5V,5V,6V,7.5V,9V,12V 30W 2A&2000mA Multifunction Adjustable AC/DC Charger Adapter Switching Power Supply +5V 2.1A USB Port with 8 Selectable Adapter Tips)
+- [Bipolar steper motor Nema 17](https://www.amazon.ca/gp/product/B07C1MVTZC/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+- [Drv8825 driver](https://www.amazon.ca/gp/product/B07L2TKLPW/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+- [12 Voltage dc power supply portable adaptor](https://www.amazon.ca/gp/product/B06X1BJRCS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 - power supply of the pi,mouse and keyboard
 - 100 microFarad capacitor
 - Breadboard and jumper wires (male and female)
