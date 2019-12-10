@@ -37,12 +37,13 @@ In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 d
 - two 8 pins male to female headers and one 4 pin header ( all single row)
 - Acrylic case for the enclosure 
 - Get my Corel Draw file by clicking [here](https://github.com/NavkiranKaur/ParkingEaze/blob/master/mechanical/EnclosureFinal.cdr) for the enclosure
-- 3d printed motor parts
-
+- 3d printed motor parts 
+- Click [Here](https://github.com/NavkiranKaur/ParkingEaze/tree/master/mechanical/Nema%2017%20motor%203D%20printing%20files) to get my 3D printing files for the motor enclosure
+-I suggest you to have them earlier so you could save your time instead of making them at the last end.
 
 ## Budget
 - The main stuff and the materials required to build the project are listed below
-The equipments that I have used from my parts kit are Jumper wires(both male and female),screw driver ,100 microFarad capacitor.I listed them here as in my budget my parts kit is mentioned,not the specific parts that I used.
+The equipments that I have used from my parts kit are Jumper wires(both male and female),screw driver ,100 microFarad capacitor.I listed them here as in my budget my parts kit is mentioned,not the specific parts that I used.All the parts are bought from amazon except the parts that I already owned and the mouse,keyboard combo that is bought from Walmart.
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/CaptureBudget1.PNG)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/Captureb2.PNG)
 
