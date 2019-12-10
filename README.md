@@ -27,10 +27,12 @@ In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 d
 ![systemdiagram](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/sysDiagram.PNG)
 
 ## Materials
-- Raspberry Pi 3B+,Hdmi cable,power supply of the pi,SD card , mouse and keyboard
-- 12 Voltage dc power supply portable adaptor
-- Bipolar steper motor Nema 17
-- Drv8825 driver
+- Raspberry Pi 3B+ 
+- [Hdmi cable](https://www.amazon.ca/gp/product/B07BN874RP/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- [Bipolar steper motor Nema 17](Usongshine 38mm 4 Lead Nema17 Stepper Motor 42 Motor Nema 17 Motor 42BYGH 38MM 1.5A (17HS4401) Motor for CNC XYZ 3D Printer Motor)
+- [Drv8825 driver](5pcs DRV8825 Stepper Motor Driver Module for 3D Printer RepRap 4 RAMPS1.4 StepStick)
+- [12 Voltage dc power supply portable adaptor](GutReise 100-240V to 3V,4.5V,5V,6V,7.5V,9V,12V 30W 2A&2000mA Multifunction Adjustable AC/DC Charger Adapter Switching Power Supply +5V 2.1A USB Port with 8 Selectable Adapter Tips)
+- power supply of the pi,mouse and keyboard
 - 100 microFarad capacitor
 - Breadboard and jumper wires (male and female)
 - 40 pin male double row male to female header, 
@@ -178,7 +180,8 @@ GPIO.cleanup()
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1.jpg)
 
 - For my motor ,i got my parts as made with 3D printing.
--Click [Here](https://www.thingiverse.com/thing:3753538)to get the website for more information
+- Click [Here](https://www.thingiverse.com/thing:3753538) to get the website for more information to design the motor 
+- I got my 3D printed parts for motor from the humber college itself 
 
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor3.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor2.jpg)
