@@ -178,6 +178,8 @@ GPIO.cleanup()
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/enclosure1.jpg)
 
 - For my motor ,i got my parts as made with 3D printing.
+-Click [Here](https://www.thingiverse.com/thing:3753538)to get the website for more information
+
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor3.jpg)
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/motor2.jpg)
 
