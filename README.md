@@ -191,6 +191,7 @@ GPIO.cleanup()
 It is a crucial step to ensure that the parts work correctly and perform the required functions that are neccesary to executing the building hardware.In my project,the key thing to specify the voltage on the driver and limiting the current on it .Without doing it,the motor is not able to rotate which is the main requirement from the hardware production.
 - Remember during the wires connection,make sure the voltage is not on,do not remove or plug in any wire while the power supply is plugged in.
 
+- Hence,this is all about my project,I hope you get all the information in order to build this hardware project.
 
 
 
