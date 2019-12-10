@@ -104,6 +104,7 @@ This [tutorial](https://www.rototron.info/raspberry-pi-stepper-motor-tutorial/) 
 - Also you need the code to run it,that i will be describing in the later steps below.
 
 ## PCB Soldering
+Before starting the pcb soldering,make sure you watch this [video](youtube.com/watchv=BLfXXRfRIzY&list=PLQ32vZrF5U2lFOJTtZDytBWBYVLNp4RYz) and make sure to wear safety glasses.
 The pcb is designed as followed by connections made and tested using the breadboard.
 The pcb design is shown below designed in fritzing
 ![capture](https://raw.githubusercontent.com/NavkiranKaur/ParkingEaze/master/images/pcb_final.png)
