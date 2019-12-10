@@ -36,7 +36,9 @@ In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 d
 - 40 pin male double row male to female header, 
 - two 8 pins male to female headers and one 4 pin header ( all single row)
 - Acrylic case for the enclosure 
+- Get my Corel Draw file by clicking [here](https://github.com/NavkiranKaur/ParkingEaze/blob/master/mechanical/EnclosureFinal.cdr) for the enclosure
 - 3d printed motor parts
+
 
 ## Budget
 - The main stuff and the materials required to build the project are listed below
