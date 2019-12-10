@@ -31,7 +31,7 @@ In this project,bipolar stepper motor that is Nema 17 is driven by the DRV8825 d
 - [Hdmi cable](https://www.amazon.ca/gp/product/B07BN874RP/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Bipolar steper motor Nema 17](https://www.amazon.ca/gp/product/B07C1MVTZC/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 - [Drv8825 driver](https://www.amazon.ca/gp/product/B07L2TKLPW/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
-- [12 Voltage dc power supply portable adaptor](https://www.amazon.ca/gp/product/B06X1BJRCS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+- [12 Voltage dc power supply portable adapt3r](https://www.amazon.ca/gp/product/B06X1BJRCS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 - power supply of the pi,mouse and keyboard
 - 100 microFarad capacitor
 - Breadboard and jumper wires (male and female)
